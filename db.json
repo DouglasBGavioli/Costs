@@ -1,0 +1,68 @@
+{
+  "projects": [
+    {
+      "name": "Academia",
+      "budget": "20000",
+      "category": {
+        "id": "1",
+        "name": "infra"
+      },
+      "cost": 10010,
+      "services": [
+        {
+          "name": "Aparelhos de musculação",
+          "cost": "10000",
+          "description": "Aparelhos para membros inferiores",
+          "id": "668b7a75-93ff-449f-8be4-7d2c315b81c0"
+        },
+        {
+          "name": "Personal Trainer",
+          "cost": "10",
+          "description": "10% do valor da mensalidade",
+          "id": "8addc849-8050-4034-8111-432cf748f3e9"
+        }
+      ],
+      "id": 1
+    },
+    {
+      "name": "Chop Bar",
+      "budget": "10000",
+      "category": {
+        "id": "3",
+        "name": "Design"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 2
+    },
+    {
+      "name": "Clube de futebol",
+      "budget": "500000",
+      "category": {
+        "id": "1",
+        "name": "infra"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 3
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "infra"
+    },
+    {
+      "id": 2,
+      "name": "Desenvolvimento"
+    },
+    {
+      "id": 3,
+      "name": "Design"
+    },
+    {
+      "id": 4,
+      "name": "Planejamento"
+    }
+  ]
+}
